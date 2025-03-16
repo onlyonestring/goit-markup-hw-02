@@ -8,7 +8,6 @@ body {
     font-style: normal;
     background-color: #fff;
     color: #434455;
-    line-height: 1.17;
 }
 /*--------------HEADER--------------*/
 .header {
@@ -20,17 +19,19 @@ body {
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #2e2f42;
         text-align: right;
+        
 }
 
 .list-item-link {
     text-decoration: none;
         font-weight: 500;
         font-size: 16px;
+        font-style: normal;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #2e2f42;
@@ -44,7 +45,7 @@ body {
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
@@ -64,6 +65,11 @@ body {
         line-height: 1.5;
         background-color: #ffffff;
         font-style: normal;
+}
+
+.address-contact:hover,
+.address-contact:focus {
+    color: #404bbf;
 }
 
 .contact-info {
@@ -123,3 +129,17 @@ body {
     background-color: #ffffff;
 }
 
+.benefits {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.benefits-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.
