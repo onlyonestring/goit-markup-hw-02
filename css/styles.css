@@ -2,6 +2,13 @@ Ul {
     list-style-type: none;
 }
 
+body {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: #fff;
+    color: #434455;
+}
 /*--------------HEADER--------------*/
 .header {
     background-color: #fff;
@@ -21,7 +28,6 @@ Ul {
 
 .list-item-link {
     text-decoration: none;
-    font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -45,7 +51,6 @@ Ul {
 }
 
 .address-contact {
-    color: #;
         font-size: 16px;
         font-weight: 400;
         letter-spacing: 0.02em;
@@ -72,6 +77,9 @@ Ul {
 }
 
 /*--------------SECTION--------------*/
+.hero {
+    background-color: #2e2f42;
+}
 
 .hero-title {
         font-size: 56px;
@@ -93,4 +101,12 @@ Ul {
             line-height: 1.5;
             cursor: pointer;
             font-family: "Roboto", sans-serif;
+}
+
+.team {
+    background-color: #f4f4fd;
+}
+
+.team-item {
+    background-color: #ffffff;
 }
