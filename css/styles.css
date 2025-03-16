@@ -160,7 +160,7 @@ body {
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
-.benefits-text-strategy {
+.benefits-text {
     font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -168,29 +168,6 @@ body {
         color: #434455;
 }
 
-.benefits-text-punctuality {
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
-    }
-
-    .benefits-text-diligence {
-            font-weight: 400;
-            font-size: 16px;
-            line-height: 1.5;
-            letter-spacing: 0.02em;
-            color: #434455;
-        }
-    .benefits-text-technologies {
-            font-weight: 400;
-            font-size: 16px;
-            line-height: 1.5;
-            letter-spacing: 0.02em;
-            color: #434455;
-        }
-        
 .team-title {
     font-weight: 700;
         font-size: 36px;
